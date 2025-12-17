@@ -1,5 +1,3 @@
-Below is a cleaned, link-free version you can drop into docs/fintech_email_compliance.md and commit.
-
 Fintech Email Compliance Rules (v1)
 1. Purpose and scope
 This document defines the rules the AI agent must use when reviewing fintech-related emails (marketing, product, and service messages) for compliance issues and suggested improvements.
